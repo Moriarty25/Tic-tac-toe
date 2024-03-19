@@ -1,2 +1,3 @@
 # Tic-tac-toe
-New project
+To be do:
+Game using minimax algoritm
